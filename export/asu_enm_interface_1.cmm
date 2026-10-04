@@ -1,0 +1,112 @@
+<marker_sets>
+<marker_set name="asu enm interface 1">
+<marker id="1" x="-34.558" y="6.833" z="-23.722" radius="0.2"/>
+<marker id="2" x="-36.874" y="5.911" z="-26.6519" radius="0.2"/>
+<link id1="1" id2="2" radius="0.2"/>
+<marker id="3" x="-29.662" y="6.073" z="-23.531" radius="0.2"/>
+<marker id="4" x="-28.363" y="2.887" z="-25.3239" radius="0.2"/>
+<link id1="3" id2="4" radius="0.2"/>
+<marker id="5" x="-28.188" y="6.821" z="-24.263" radius="0.2"/>
+<marker id="6" x="-27.724" y="9.056" z="-27.4339" radius="0.2"/>
+<link id1="5" id2="6" radius="0.2"/>
+<marker id="7" x="-26.885" y="6.004" z="-23.327" radius="0.2"/>
+<marker id="8" x="-27.194" y="3.248" z="-25.9589" radius="0.2"/>
+<link id1="7" id2="8" radius="0.2"/>
+<marker id="9" x="-26.885" y="6.004" z="-23.327" radius="0.2"/>
+<marker id="10" x="-25.981" y="2.833" z="-25.4289" radius="0.2"/>
+<link id1="9" id2="10" radius="0.2"/>
+<marker id="11" x="-26.885" y="6.004" z="-23.327" radius="0.2"/>
+<marker id="12" x="-28.363" y="2.887" z="-25.3239" radius="0.2"/>
+<link id1="11" id2="12" radius="0.2"/>
+<marker id="13" x="-26.641" y="0.049" z="-18.64" radius="0.2"/>
+<marker id="14" x="-27.039" y="1.044" z="-22.4869" radius="0.2"/>
+<link id1="13" id2="14" radius="0.2"/>
+<marker id="15" x="-25.599" y="2.426" z="-19.594" radius="0.2"/>
+<marker id="16" x="-27.039" y="1.044" z="-22.4869" radius="0.2"/>
+<link id1="15" id2="16" radius="0.2"/>
+<marker id="17" x="-25.869" y="3.794" z="-20.202" radius="0.2"/>
+<marker id="18" x="-27.039" y="1.044" z="-22.4869" radius="0.2"/>
+<link id1="17" id2="18" radius="0.2"/>
+<marker id="19" x="-25.099" y="3.904" z="-21.375" radius="0.2"/>
+<marker id="20" x="-25.927" y="2.092" z="-24.2689" radius="0.2"/>
+<link id1="19" id2="20" radius="0.2"/>
+<marker id="21" x="-25.099" y="3.904" z="-21.375" radius="0.2"/>
+<marker id="22" x="-27.039" y="1.044" z="-22.4869" radius="0.2"/>
+<link id1="21" id2="22" radius="0.2"/>
+<marker id="23" x="-25.099" y="3.904" z="-21.375" radius="0.2"/>
+<marker id="24" x="-27.109" y="1.751" z="-23.6429" radius="0.2"/>
+<link id1="23" id2="24" radius="0.2"/>
+<marker id="25" x="-27.194" y="3.248" z="13.998" radius="0.2"/>
+<marker id="26" x="-26.885" y="6.004" z="16.6299" radius="0.2"/>
+<link id1="25" id2="26" radius="0.2"/>
+<marker id="27" x="-28.363" y="2.887" z="14.633" radius="0.2"/>
+<marker id="28" x="-29.662" y="6.073" z="16.4259" radius="0.2"/>
+<link id1="27" id2="28" radius="0.2"/>
+<marker id="29" x="-28.363" y="2.887" z="14.633" radius="0.2"/>
+<marker id="30" x="-26.885" y="6.004" z="16.6299" radius="0.2"/>
+<link id1="29" id2="30" radius="0.2"/>
+<marker id="31" x="-25.981" y="2.833" z="14.528" radius="0.2"/>
+<marker id="32" x="-26.885" y="6.004" z="16.6299" radius="0.2"/>
+<link id1="31" id2="32" radius="0.2"/>
+<marker id="33" x="-25.927" y="2.092" z="15.688" radius="0.2"/>
+<marker id="34" x="-25.099" y="3.904" z="18.5819" radius="0.2"/>
+<link id1="33" id2="34" radius="0.2"/>
+<marker id="35" x="-27.109" y="1.751" z="16.314" radius="0.2"/>
+<marker id="36" x="-25.099" y="3.904" z="18.5819" radius="0.2"/>
+<link id1="35" id2="36" radius="0.2"/>
+<marker id="37" x="-27.039" y="1.044" z="17.47" radius="0.2"/>
+<marker id="38" x="-25.599" y="2.426" z="20.3629" radius="0.2"/>
+<link id1="37" id2="38" radius="0.2"/>
+<marker id="39" x="-27.039" y="1.044" z="17.47" radius="0.2"/>
+<marker id="40" x="-25.099" y="3.904" z="18.5819" radius="0.2"/>
+<link id1="39" id2="40" radius="0.2"/>
+<marker id="41" x="-27.039" y="1.044" z="17.47" radius="0.2"/>
+<marker id="42" x="-25.869" y="3.794" z="19.7549" radius="0.2"/>
+<link id1="41" id2="42" radius="0.2"/>
+<marker id="43" x="-27.039" y="1.044" z="17.47" radius="0.2"/>
+<marker id="44" x="-26.641" y="0.049" z="21.3169" radius="0.2"/>
+<link id1="43" id2="44" radius="0.2"/>
+<marker id="45" x="-27.724" y="9.056" z="12.523" radius="0.2"/>
+<marker id="46" x="-28.188" y="6.821" z="15.6939" radius="0.2"/>
+<link id1="45" id2="46" radius="0.2"/>
+<marker id="47" x="-36.874" y="5.911" z="13.305" radius="0.2"/>
+<marker id="48" x="-34.558" y="6.833" z="16.2349" radius="0.2"/>
+<link id1="47" id2="48" radius="0.2"/>
+<marker id="49" x="-32.386" y="-19.787" z="22.846" radius="0.2"/>
+<marker id="50" x="-30.451" y="-19.805" z="25.5869" radius="0.2"/>
+<link id1="49" id2="50" radius="0.2"/>
+<marker id="51" x="-32.386" y="-19.787" z="22.846" radius="0.2"/>
+<marker id="52" x="-33.337" y="-18.337" z="25.9449" radius="0.2"/>
+<link id1="51" id2="52" radius="0.2"/>
+<marker id="53" x="-32.386" y="-19.787" z="22.846" radius="0.2"/>
+<marker id="54" x="-33.671" y="-20.456" z="26.4179" radius="0.2"/>
+<link id1="53" id2="54" radius="0.2"/>
+<marker id="55" x="-32.386" y="-19.787" z="22.846" radius="0.2"/>
+<marker id="56" x="-34.06" y="-19.281" z="26.2939" radius="0.2"/>
+<link id1="55" id2="56" radius="0.2"/>
+<marker id="57" x="-31.053" y="-18.632" z="22.462" radius="0.2"/>
+<marker id="58" x="-30.451" y="-19.805" z="25.5869" radius="0.2"/>
+<link id1="57" id2="58" radius="0.2"/>
+<marker id="59" x="-31.565" y="-26.23" z="26.054" radius="0.2"/>
+<marker id="60" x="-33.862" y="-24.594" z="27.9219" radius="0.2"/>
+<link id1="59" id2="60" radius="0.2"/>
+<marker id="61" x="-34.06" y="-19.281" z="-13.663" radius="0.2"/>
+<marker id="62" x="-32.386" y="-19.787" z="-17.1109" radius="0.2"/>
+<link id1="61" id2="62" radius="0.2"/>
+<marker id="63" x="-33.671" y="-20.456" z="-13.539" radius="0.2"/>
+<marker id="64" x="-32.386" y="-19.787" z="-17.1109" radius="0.2"/>
+<link id1="63" id2="64" radius="0.2"/>
+<marker id="65" x="-33.337" y="-18.337" z="-14.012" radius="0.2"/>
+<marker id="66" x="-32.386" y="-19.787" z="-17.1109" radius="0.2"/>
+<link id1="65" id2="66" radius="0.2"/>
+<marker id="67" x="-33.862" y="-24.594" z="-12.035" radius="0.2"/>
+<marker id="68" x="-31.565" y="-26.23" z="-13.9029" radius="0.2"/>
+<link id1="67" id2="68" radius="0.2"/>
+<marker id="69" x="-30.451" y="-19.805" z="-14.37" radius="0.2"/>
+<marker id="70" x="-32.386" y="-19.787" z="-17.1109" radius="0.2"/>
+<link id1="69" id2="70" radius="0.2"/>
+<marker id="71" x="-30.451" y="-19.805" z="-14.37" radius="0.2"/>
+<marker id="72" x="-31.053" y="-18.632" z="-17.4949" radius="0.2"/>
+<link id1="71" id2="72" radius="0.2"/>
+</marker_set>
+</marker_sets>
